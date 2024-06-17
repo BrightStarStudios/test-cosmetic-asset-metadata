@@ -1,0 +1,16 @@
+{
+  "name": "assets-metadata-test.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "ts-node scripts/generate.ts"
+  },
+  "keywords": [],
+  "author": "Michael Falck Wedelgård",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

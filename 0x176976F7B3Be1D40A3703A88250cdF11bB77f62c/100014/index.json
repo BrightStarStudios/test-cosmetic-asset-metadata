@@ -1,0 +1,10 @@
+{
+  "id": "100014",
+  "name": "Jesse's Fart",
+  "description": "This fart edition of emote is a collectable item. It grants you amazing farts in-game",
+  "image_url": "https://bss-michael-wedelgaard.github.io/assets-metadata-test.github.io/0x176976F7B3Be1D40A3703A88250cdF11bB77f62c/images/fart.jpg",
+  "type": "emote",
+  "subType": "emote",
+  "rarity": "unique",
+  "mergeable": false
+}

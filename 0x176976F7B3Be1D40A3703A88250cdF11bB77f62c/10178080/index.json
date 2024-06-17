@@ -1,0 +1,10 @@
+{
+  "id": "10178080",
+  "name": "Shattered",
+  "description": "This Common edition of shattered sword and shield is a collectable item, created for Ember Sword. It grants you an amazing look in-game",
+  "image_url": "https://bss-michael-wedelgaard.github.io/assets-metadata-test.github.io/0x176976F7B3Be1D40A3703A88250cdF11bB77f62c/images/sword-1.jpg",
+  "type": "skin",
+  "subType": "weapon",
+  "rarity": "common",
+  "mergeable": true
+}
