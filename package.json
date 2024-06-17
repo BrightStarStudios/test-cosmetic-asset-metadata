@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "generate": "ts-node scripts/generate.ts"
+    "generate": "ts-node scripts/generate.ts",
+    "update-image-url": "ts-node scripts/update-image-url.ts"
   },
   "keywords": [],
   "author": "Michael Falck Wedelgård",
@@ -12,5 +13,8 @@
   "devDependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "p-limit": "^5.0.0"
   }
 }
