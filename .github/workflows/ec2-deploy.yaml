@@ -1,0 +1,19 @@
+name: EC2-Deployment
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  deploy:
+    runs-on:
+      - self-hosted
+      - nft-metadata-staging
+    steps:
+    - name: Pull latest to nginx
+      run: |
+        cd /home/ubuntu/test-cosmetic-asset-metadata
+        git pull
+        git log
+        ls -l
+      shell: bash
